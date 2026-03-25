@@ -1,4 +1,6 @@
-<a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+![giphy](https://github.com/user-attachments/assets/53dad946-ea65-4f40-82f5-269a15b44483)
+
+<a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 - PLEASE CHECK MY SPECS IN MY OTHER GITHUB REPO SO YOU KNOW THE HARDWARE I USE FOR THESE TWEAKS, THANKS
 
