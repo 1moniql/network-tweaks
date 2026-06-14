@@ -9,8 +9,10 @@
 *(make sure your ethernet drivers are updated by going to your motherboards website and download the most recent ethernet/network drivers)*
 
 - go to ethernet properties in controll panel - Control Panel > Network & Internet > Network & Sharing Center > Ethernet > Properties
-turn of everything exept for IPV4 (if you live in a house with other people using wifi and have less then 500mbps download speed leave QOS Packet Scheduler ON)
+turn of everything exept for IPV4 (if you live in a house with other people using wifi and have less then 1gb internet, (specificly fibre) leave QOS Packet Scheduler ON)
 
+--------------------------------------------------------
+MANUAL-DIY (SAFER FOR BEGINNERS IN NETWORK TWEAKS/OPTI
 ----------------------------------------------------------
 
 - download tpc optimzer - https://www.speedguide.net/downloads.php
