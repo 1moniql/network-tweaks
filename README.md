@@ -15,7 +15,7 @@
 turn of everything exept for IPV4 (if you live in a house with other people using wifi and have less then 1gb internet, (specificly fibre) leave QOS Packet Scheduler ON)
 
 --------------------------------------------------------
-MANUAL-DIY (SAFER FOR BEGINNERS IN NETWORK TWEAKS/OPTI
+MANUAL-DIY (SAFER FOR BEGINNERS IN NETWORK TWEAKS/OPTIS)
 ----------------------------------------------------------
 
 - download tpc optimzer - https://www.speedguide.net/downloads.php
