@@ -2,6 +2,8 @@
 
 - ALWAYS CREATE A RESTORE POINT BEFORE DOING ANY TWEAKS OR OPTIMIZATIONS
 
+- ise !Reset Networt.bat if lose of connection or worse performance and need to reset
+
 <a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ![giphy](https://github.com/user-attachments/assets/53dad946-ea65-4f40-82f5-269a15b44483)
@@ -116,3 +118,17 @@ Go to Group Policy Editor > Local Computer Policy > Administrative Templates > N
 // THEN RESTART AGAIN
 
 // THATS ALL THE TWEAKS, THIS WILL BE UPDATED WITH ANYTHING NEW OR SOMTHING I FIND THAT I START USING DAILY
+
+
+--------------------------------------------------------
+ADVANCED-WITH-BAT-FILE-&-REG-FILE
+----------------------------------------------------------
+*ALL OF THESE REG FILES AND BAT FILES WHERE FROM CATGAMEROPS FoxOS*
+
+run disable internet probing
+
+run network tweaks 
+
+all done!
+
+test for your self what else may work for your system.
